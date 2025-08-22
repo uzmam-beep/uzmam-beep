@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on developing a customer support AI agent
+I'm a third year computer science student at University College Dublin, currently working on developing a customer support AI agent.
 
 
 ## 🌐 Contact Me:
